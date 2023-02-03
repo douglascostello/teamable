@@ -9,3 +9,5 @@ It is an application for managing employee files.
 ### To pakcage the application, execute
 
     npm pack
+
+Application runs on port 3000
